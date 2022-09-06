@@ -2,7 +2,7 @@
 
 # Первый способ
 text = input().strip()
-text.replace(' ', '-')
+text = text.replace(' ', '-')
 print(text)
 
 # Второй способ:
