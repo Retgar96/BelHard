@@ -20,7 +20,7 @@ while i < N:
             count = 0
             print(i)
         else:
-            print(i,' ', end='')
+            print(i,'', end='')
 
 
 
